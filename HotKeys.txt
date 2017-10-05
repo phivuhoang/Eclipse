@@ -6,4 +6,6 @@ Keywords: hotkeys, keyboard shortcut
 	Ctrl - Shift - L	brings up a List of shortcut keys
 	See Windows/Preference->General->Keys.
 
-	
+2. Reformat coding / auto-format code
+	Ctrl + Shift + F	On Windows
+	CMD + Up + F		On Mac
