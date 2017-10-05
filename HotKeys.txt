@@ -1,0 +1,9 @@
+Keywords: hotkeys, keyboard shortcut
+
+1. Copy/paste entire line
+	Ctrl - Alt - Up		copies current line or selected lines to below
+	Ctrl - Alt - Down	copies current line or selected lines to above
+	Ctrl - Shift - L	brings up a List of shortcut keys
+	See Windows/Preference->General->Keys.
+
+	
