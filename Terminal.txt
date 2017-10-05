@@ -1,2 +1,4 @@
+Installing Terminal by Eclipse Marketplace
+
 Run Terminal with account administrator
 	runas /savecred /user:administrator\administrator cmd
