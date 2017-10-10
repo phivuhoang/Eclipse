@@ -29,6 +29,12 @@ Keywords: hotkeys, keyboard shortcut
 	Ctrl + Shift + O		Remove unused imports
 	Ctrl + Shift + M		Add a single import
 							<=> Alt + Enter (Intellij)
+							
+7. Commect <-> Code
+	Ctrl + /				Code to comment
+	Ctrl + \				Comment to code
+	Ctrl + Shift + /		XML code to comment
+	Ctrl + Shift + \		XML commect to code
 
 	
 	
