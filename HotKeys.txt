@@ -9,3 +9,46 @@ Keywords: hotkeys, keyboard shortcut
 2. Reformat coding / auto-format code
 	Ctrl + Shift + F	On Windows
 	CMD + Up + F		On Mac
+	
+3. Delete
+	Ctrl + D 				Delete current line
+	Ctrl + Delete 			Delete next word after cursor
+	Ctrl + Shift + Delete	Delete from the cursor until end of line
+	
+4. Lower + Upper
+	Ctrl + Shift + y		Changes a selection to lowercase
+	Ctrl + Shift + x		Changes a selection to uppercase
+	
+5. Line
+	Alt + Up 				Moves up current line
+	Alt + Control + Up		Copies and moves up current line
+	Alt + Down 				Moves up current line
+	Alt + Control + Down	Copies and moves down current line
+	
+6. Import
+	Ctrl + Shift + O		Remove unused imports
+	Ctrl + Shift + M		Add a single import
+							<=> Alt + Enter (Intellij)
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
