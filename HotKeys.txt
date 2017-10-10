@@ -20,10 +20,10 @@ Keywords: hotkeys, keyboard shortcut
 	Ctrl + Shift + x		Changes a selection to uppercase
 	
 5. Line
-	Alt + Up 				Moves up current line
-	Alt + Control + Up		Copies and moves up current line
-	Alt + Down 				Moves up current line
-	Alt + Control + Down	Copies and moves down current line
+	Alt + Up 					Moves up current line
+	Alt + Control + Up			Copies and moves up current line
+	Alt + Down 					Moves up current line
+	Alt + Control + Down		Copies and moves down current line
 	
 6. Import
 	Ctrl + Shift + O		Remove unused imports
