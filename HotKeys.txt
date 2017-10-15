@@ -1,5 +1,11 @@
 Keywords: hotkeys, keyboard shortcut
-
+0. Run:
+INTELLIJ
+	Ctrl + Shift + F10
+	Ctrl + F10
+ECLIPSE
+	Ctrl + Shift + X
+	Double click on [Function Name] -> Run
 1. Copy/paste entire line
 	Ctrl - Alt - Up		copies current line or selected lines to below
 	Ctrl - Alt - Down	copies current line or selected lines to above
@@ -7,6 +13,9 @@ Keywords: hotkeys, keyboard shortcut
 	See Windows/Preference->General->Keys.
 
 2. Reformat coding / auto-format code
+INTELLIJ
+	Ctrl + Alt + L
+ECLIPSE
 	Ctrl + Shift + F	On Windows
 	CMD + Up + F		On Mac
 	
@@ -36,7 +45,14 @@ Keywords: hotkeys, keyboard shortcut
 	Ctrl + Shift + /	XML code to comment
 	Ctrl + Shift + \	XML commect to code
 
-	
+8. System.out.println
+INTELLIJ
+	sout + Tab
+ECLIPSE
+	syso + Ctrl + Space
+
+
+https://www.catalysts.cc/en/wissenswertes/intellij-idea-and-eclipse-shortcuts/	
 	
 	
 	
