@@ -5,3 +5,7 @@
 2. Complete suggest code too slow
 	Window > Preferences > Code Recommenders > Completions
 		Turned off    Subwords-Completion Processor
+
+3. Unhandled event loop exception No more handles
+	Access to "Workspace"
+		> .metadata > .plugins > ...workbench (DELETE ALL)
