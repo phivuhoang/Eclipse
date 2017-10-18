@@ -1,0 +1,7 @@
+1. Auto complete coding
+	Windows > Preferences > Java > Editor > Content Assist
+		[Auto Activation] > Auto activation triggers for Java: ._abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+2. Complete suggest code too slow
+	Window > Preferences > Code Recommenders > Completions
+		Turned off    Subwords-Completion Processor
