@@ -52,6 +52,8 @@ ECLIPSE
 	syso + Ctrl + Space
 
 
+
+----- Supporting documents -----
 https://www.catalysts.cc/en/wissenswertes/intellij-idea-and-eclipse-shortcuts/	
 	
 	
